@@ -12,4 +12,3 @@
 # sfdx login:functions:jwt --clientid 3MVG9CEn_O3jvv0zQGZ3RC8AeiKOvTHGF1AyKTPEhceKFjU7hrwn1JO3h.JnCWqOUo.ZQ9iGALbY1Fy_taX3y --username deploybot@dxhub.org --keyfile /app/tmp/server.key
 # sfdx shane:data:file:upload -f /etc/passwd -n zeb0x01test -u deploybot@dxhub.org
 sf force:org:open -o deploybot@dxhub.org -r
-sf force:org:open -o shane.mclaughlin@dxhub.org -r
