@@ -1,1 +1,1 @@
-sf org list --verbose
+sf force:org:open -o deploybot@dxhub.org -r
